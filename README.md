@@ -1,4 +1,4 @@
-# 🔍 Predicting Fake Job Postings — CS657 Assignment 2
+# 🔍 Predicting Fake Job Postings Using Pyspark 
 
 This PySpark-based project implements a machine learning pipeline to identify fraudulent job postings using the **Fake Job Posting Prediction** dataset. It includes data cleaning, feature extraction, handling class imbalance, and evaluating four ML models with cross-validation. The project demonstrates scalable text classification in a distributed environment.
 
